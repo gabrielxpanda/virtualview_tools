@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NVHLayout
+        orientation="V"
+        layoutWidth="750rp"
+        layoutHeight="400"
+        background="#FFFFFF">
+
+    <VText
+            text="orientation = V"
+            textSize="12"
+            textColor="#333333"
+            paddingLeft="5rp"
+            background="#cccccc"
+            layoutWidth="match_parent"
+            layoutHeight="20rp"/>
+
+   
+    <NVHLayout
+            background="#B0C4DE"
+            layoutWidth="match_parent"
+            layoutHeight="wrap_content"
+            borderWidth="1"
+            borderColor="#FF0000"
+            borderRadius="10rp"
+            layoutMarginTop="5rp"
+            layoutMarginLeft="20rp"
+            layoutMarginRight="20rp"
+            layoutMarginBottom="5rp"
+            paddingTop="10rp"
+            paddingLeft="10rp"
+            paddingRight="10rp"
+            paddingBottom="10rp"
+            orientation="V">
+        <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                textSize="20"
+                textStyle="bold"
+                gravity="left"
+                text="名家讲堂" />
+
+        <NVHLayout
+            layoutWidth="match_parent"
+            layoutHeight="wrap_content"
+            borderWidth="1"
+            borderColor="#FF0000"
+            paddingTop="1rp"
+            paddingLeft="1rp"
+            paddingRight="1rp"
+            paddingBottom="1rp"
+            layoutMarginTop="15rp"
+            orientation="H">
+        <ZYBNImage
+            src="${src}"
+            ratio="1.78" 
+            layoutWidth="290rp"
+            layoutHeight="wrap_content"
+            borderRadius="10rp"
+            />
+       <NVHLayout
+            background="#B0C4DE"
+            layoutWidth="400rp"
+            layoutHeight="match_parent"
+            paddingTop="10rp"
+            paddingLeft="10rp"
+            paddingRight="10rp"
+            paddingBottom="10rp"
+            orientation="V">
+
+             <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                textSize="16"
+                textStyle="bold"
+                gravity="left"
+                layoutGravity="top|left"
+                text="纪连海老师XXXXXXX纪连海老师XXXXXXX纪连海老师XXXXXXX纪连海老师XXXXXXX" />
+                 <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                layoutMarginTop="15rp"
+                textSize="12"
+                gravity="left"
+                layoutGravity="left|v_center"
+                text="作业帮名家讲堂09期作业帮名家讲堂09期作业帮名家讲堂09期作业帮名家讲堂09期" />
+                 <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                layoutMarginTop="15rp"
+                textSize="10"
+                gravity="left"
+                layoutGravity="bottom|left"
+                text="播放 1000播放 1000播放 1000播放 1000播放 1000播放 1000" />
+            </NVHLayout>
+
+
+
+
+
+
+
+    </NVHLayout>
+
+    <NVHLayout
+            layoutWidth="match_parent"
+            layoutHeight="wrap_content"
+            borderWidth="1"
+            borderColor="#FF0000"
+            paddingTop="1rp"
+            paddingLeft="1rp"
+            paddingRight="1rp"
+            paddingBottom="1rp"
+            layoutMarginTop="15rp"
+            orientation="H">
+        <ZYBNImage
+            src="${src}"
+            ratio="1.78" 
+            layoutWidth="290rp"
+            layoutHeight="wrap_content"
+            borderRadius="10rp"
+            />
+       <NVHLayout
+            background="#B0C4DE"
+            layoutWidth="400rp"
+            layoutHeight="match_parent"
+            paddingTop="10rp"
+            paddingLeft="10rp"
+            paddingRight="10rp"
+            paddingBottom="10rp"
+            orientation="V">
+
+             <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                textSize="16"
+                textStyle="bold"
+                gravity="left"
+                layoutGravity="top|left"
+                text="纪连海老师XXXXXXX纪连海老师XXXXXXX纪连海老师XXXXXXX纪连海老师XXXXXXX" />
+                 <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                layoutMarginTop="15rp"
+                textSize="12"
+                gravity="left"
+                layoutGravity="left|v_center"
+                text="作业帮名家讲堂09期作业帮名家讲堂09期作业帮名家讲堂09期作业帮名家讲堂09期" />
+                 <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                layoutMarginTop="15rp"
+                textSize="10"
+                gravity="left"
+                layoutGravity="bottom|left"
+                text="播放 1000播放 1000播放 1000播放 1000播放 1000播放 1000" />
+            </NVHLayout>
+
+
+
+
+
+
+
+    </NVHLayout>
+
+    <NVHLayout
+            layoutWidth="match_parent"
+            layoutHeight="wrap_content"
+            borderWidth="1"
+            borderColor="#FF0000"
+            paddingTop="1rp"
+            paddingLeft="1rp"
+            paddingRight="1rp"
+            paddingBottom="1rp"
+            layoutMarginTop="15rp"
+            orientation="H">
+        <ZYBNImage
+            src="${src}"
+            ratio="1.78" 
+            layoutWidth="290rp"
+            layoutHeight="wrap_content"
+            borderRadius="10rp"
+            />
+       <NVHLayout
+            background="#B0C4DE"
+            layoutWidth="400rp"
+            layoutHeight="match_parent"
+            paddingTop="10rp"
+            paddingLeft="10rp"
+            paddingRight="10rp"
+            paddingBottom="10rp"
+            orientation="V">
+
+             <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                textSize="16"
+                textStyle="bold"
+                gravity="left"
+                layoutGravity="top|left"
+                text="纪连海老师XXXXXXX纪连海老师XXXXXXX纪连海老师XXXXXXX纪连海老师XXXXXXX" />
+                 <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                layoutMarginTop="15rp"
+                textSize="12"
+                gravity="left"
+                layoutGravity="left|v_center"
+                text="作业帮名家讲堂09期作业帮名家讲堂09期作业帮名家讲堂09期作业帮名家讲堂09期" />
+                 <VText
+                layoutWidth="match_parent"
+                layoutHeight="wrap_content"
+                layoutMarginTop="15rp"
+                textSize="10"
+                gravity="left"
+                layoutGravity="bottom|left"
+                text="播放 1000播放 1000播放 1000播放 1000播放 1000播放 1000" />
+            </NVHLayout>
+
+
+
+
+
+
+
+    </NVHLayout>
+
+
+    </NVHLayout>
+
+</NVHLayout>
