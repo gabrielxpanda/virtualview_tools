@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        autoDimDirection="X"
+        autoDimX="750"
+        autoDimY="590"
+        layoutHeight="wrap_content"
+        layoutWidth="match_parent">
+
+    <NImage
+            id="1"
+            action="action"
+            src="${bgImgUrl}"
+            flag="flag_exposure|flag_clickable"
+            layoutHeight="match_parent"
+            layoutWidth="match_parent"/>
+
+    <Grid
+            id="2"
+            layoutGravity="bottom"
+            flag="flag_draw"
+            colCount="3"
+            dataTag="${data}"
+            layoutHeight="wrap_content"
+            layoutWidth="match_parent"
+            layoutMarginLeft="10"
+            layoutMarginRight="10"
+            layoutMarginBottom="10"
+            itemHorizontalMargin="2"/>
+</FrameLayout>
