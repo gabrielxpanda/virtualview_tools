@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NFrameLayout
+    layoutWidth="match_parent"
+    layoutHeight="250"
+    background="#1A008899">
+
+    <Page
+        id="122"
+        autoSwitch="true"
+        canSlide="true"
+        dataTag="${data}"
+        layoutHeight="match_parent"
+        layoutWidth="match_parent"
+        orientation="H"
+        stayTime="2000"/>
+
+    <NText
+        id="123"
+        textSize="20"
+        layoutGravity="right|bottom"
+        layoutMarginBottom="30"
+        layoutMarginRight="30"
+        textColor="red"
+        textStyle="bold"
+        layoutWidth="wrap_content"
+        layoutHeight="wrap_content" />
+
+</NFrameLayout>

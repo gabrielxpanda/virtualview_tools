@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NFrameLayout
+    action="${action}"
+    flag="flag_exposure|flag_clickable"
+    layoutWidth="match_parent"
+    borderRadius="20"
+    layoutHeight="match_parent">
+
+    <NText
+        layoutGravity="h_center"
+        layoutHeight="match_parent"
+        gravity="h_center|bottom"
+        layoutWidth="match_parent"
+        textSize="20"
+        textStyle="bold"
+        textColor="blue"
+        text="${text}"/>
+</NFrameLayout>
